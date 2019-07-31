@@ -1,0 +1,7 @@
+D:\GoogleDrive\Documentos\Cursos\Cursos Ejecución\Clase 6 Git\tarea6\PrimerProyectoILU\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+D:\GoogleDrive\Documentos\Cursos\Cursos Ejecución\Clase 6 Git\tarea6\PrimerProyectoILU\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+D:\GoogleDrive\Documentos\Cursos\Cursos Ejecución\Clase 6 Git\tarea6\PrimerProyectoILU\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+D:\GoogleDrive\Documentos\Cursos\Cursos Ejecución\Clase 6 Git\tarea6\PrimerProyectoILU\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+D:\GoogleDrive\Documentos\Cursos\Cursos Ejecución\Clase 6 Git\tarea6\PrimerProyectoILU\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Documentos\Cursos\Cursos Ejecución\Clase 6 Git\tarea6\PrimerProyectoILU\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+D:\GoogleDrive\Documentos\Cursos\Cursos Ejecución\Clase 6 Git\tarea6\PrimerProyectoILU\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

@@ -1,0 +1,16 @@
+• Crear una cuenta gratuita en Github (si aún no tiene una)
+• Crear un repositorio gratuito llamado “PrimerProyectoILU”
+• Clonar el repositorio remoto utilizando Git Bash y agregarle lo siguiente
+• Configurar git para que ignore el archivo app.config
+• Crear una nueva aplicación de consola que muestre “Hola mundo” y realizar un commit y
+cargar cambios al servidor con git push.
+• Cambiar el mensaje a “Hola Su nombre”, realizar commit y cargar cambios al servidor con
+git push.
+• Crear un nuevo archivo desde el sitio github (clic en el botón “Create new file”), nombrarlo
+“lista de tareas.txt”
+•Obtener los cambios que se realizaron el servidor remoto utilizando el comando pull
+• Agregar una línea de texto al archivo “lista de tareas.txt”, realizar un commit y por último
+cargar los cambios al servidor remoto con git push.
+
+Nota: en total se deben realizar tres commits al repositorio remoto.
+¡Con todo!
